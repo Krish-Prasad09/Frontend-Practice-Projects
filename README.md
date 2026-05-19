@@ -1,6 +1,6 @@
 # 🌐 Basic Frontend Projects
 
-A collection of beginner-to-intermediate frontend projects built with **HTML**, **CSS**, and **JavaScript** as part of a 30-day web development challenge.
+A collection of beginner frontend projects built with **HTML**, **CSS**, and **JavaScript** 
 
 ---
 
@@ -69,11 +69,4 @@ Calculate your exact age in years, months, and days from your date of birth.
 
 ---
 
-## 👨‍💻 Author
 
-**Krish Prasad**  
-GitHub: [@Krish-Prasad09](https://github.com/Krish-Prasad09)
-
----
-
-⭐ If you found this helpful, consider giving the repo a star!
